@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 Two years have passed since I decided to join this exciting world of programming and I couldn't be more proud of my choice. I am truly passionate about what I do.<br>👯 I’m looking for new and challenging projects<br>🌱 I'm currently honing my backend skills and already thinking about which language to add to my repertoire.<br>💬 Don't hesitate to ask me anything and I'll be happy to help you out.<br>⚡ Let's go for it ^^
+
+🔭 Passionate Programmer | Two years ago, I embarked on the exciting journey of programming, and I couldn't be prouder of my decision. My passion for creating innovative solutions grows stronger every day.
+
+👯 Always Up for Challenges | I love tackling challenging projects that allow me to learn, grow, and contribute. I'm always open to collaboration!
+
+🌱 Constant Learner | Currently sharpening my backend skills while exploring which new language or technology to add to my toolbox.
+
+💬 Let’s Connect | Feel free to reach out for a chat, ask questions, or collaborate. I'm happy to help!
+
+⚡ Driven by Curiosity | Curiosity and a drive for self-improvement fuel my work every day. Let’s make things happen!
 
 
 ## 🌐 Socials:
