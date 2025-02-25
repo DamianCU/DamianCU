@@ -2,6 +2,7 @@
   <h1 align="center"> Hi there! I'm DAMIÁN.CU! 🚜🌳🌳🌳</h1>
   <img src="" />
 </div>
+![image](https://github.com/user-attachments/assets/ceb813d0-0ca4-4fa1-a4d5-e759c9ae486f)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dcu7548) 
 
