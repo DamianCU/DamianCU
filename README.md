@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hi there! I'm DamiánCU🐶</h1>
 </div>
-<img src="<img width="597" alt="bannerdcu" src="https://github.com/user-attachments/assets/104e7179-9050-4c14-aa5d-ce9487b21ce3" />
-"
+<img src="" />
+
 
 🚀 **Frontend Developer | 3D Enthusiast | Aspiring Game Developer**  
 
