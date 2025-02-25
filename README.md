@@ -1,4 +1,4 @@
-<img src="" />
+<img align="center" src="" />
 <div align="center">
   <h1 align="center"> Hi there! I'm DAMIÁN.CU! 🚜🌳🌳🌳</h1>
 </div>
@@ -22,7 +22,6 @@
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
 
 
 # Courses:
