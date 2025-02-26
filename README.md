@@ -1,6 +1,8 @@
+<img width="597" alt="bannerdcu" src="https://github.com/user-attachments/assets/48e105af-2e97-4528-bb2c-ae2496724bf5" />
 <div align="center">
   <h1 align="center"> Hi there! I'm DAMIÁN.CU! 🚜🌳🌳🌳</h1>
 </div>
+
 
 
 # 💻 Main Stack:
