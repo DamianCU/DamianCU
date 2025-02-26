@@ -10,7 +10,7 @@
 
 <br>
 
-# 💻🔧 Plus Tools: 
+# 💻 Plus Tools: 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
@@ -32,7 +32,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianCU&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
----
-[![](https://visitcount.itsvg.in/api?id=DamianCU&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
